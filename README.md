@@ -91,11 +91,17 @@
 ## 📊 GitHub Stats (Fixed)
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnayMishra2006&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnayMishra2006&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnayMishra2006&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnayMishra2006&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnayMishra2006&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnayMishra2006&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnayMishra2006&theme=radical&utcOffset=5.5" />
 </p>
 
 ---
@@ -103,7 +109,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnayMishra2006&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=AnayMishra2006&theme=radical&hide_border=true" />
 </p>
 
 ---
