@@ -88,7 +88,7 @@
 
 ---
 
-## 📊 GitHub Stats (Fixed)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnayMishra2006&theme=radical" />
@@ -106,12 +106,5 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnayMishra2006&theme=radical&hide_border=true" />
-</p>
-
----
 
 > **"I don’t just write code — I build intelligence."**
